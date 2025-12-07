@@ -1,10 +1,10 @@
+# Final Report found at 'Data Driven Player Efficiency Rating Prediction.pdf'
+
 Data-Driven Player Efficiency Rating (PER) Prediction
 Predicting NBA Rookie PER from College and Draft Combine Data
 
 Sam Peters, Ethan Ogle, Matthew Mullis, Joseph Murphy
 CSCI 4380 • December 5, 2025
-
-# Final Report found at 'Data Driven Player Efficiency Rating Prediction.pdf'
 
 Overview
 
