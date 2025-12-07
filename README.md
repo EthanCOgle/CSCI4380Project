@@ -21,11 +21,3 @@ Model training and evaluation (Linear Regression, Ridge, Lasso, Decision Tree, R
 Visualizations and outputs
 
 Final written report
-
-Repository Structure
-.
-├── Comparisons/                     # Model comparison files and outputs
-├── outputs/                         # Cleaned datasets, processed CSVs, model results
-├── CSCI4380Project.ipynb            # Old notebook with initial data ingestion and cleanup
-├── Data_driven_Player_Efficiency_Rating_Prediction.ipynb  # Updated notebook with final analysis
-└── README.md                        # This file
